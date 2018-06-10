@@ -1,8 +1,8 @@
 name: login_button
 description: Login button that becomes a circular progressbar on click.
 version: 0.0.1
-author: Reuben Nellissery
-homepage: https://github.com/bennyhawk
+author: Reuben Nellissery <reubennellissery@gmail.com>
+homepage: https://github.com/bennyhawk/FlutterLoginWidget
 
 environment:
     sdk: ">=1.19.0 <2.0.0"
